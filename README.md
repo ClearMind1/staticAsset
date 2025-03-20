@@ -1,5 +1,10 @@
+# 一、使用链接示例
+```
+https://cdn.jsdelivr.net/gh/ClearMind1/staticAsset@main/image/1726390457934.png
+```
+
+# 二、GitHub使用指南
 > 来自 https://www.jsdelivr.com/documentation#id-github 介绍
-# GitHub使用指南
 我们推荐在支持npm的项目中使用npm以获得更好的用户体验 - npm包在我们的网站上可搜索，并且包页面会显示其他有用信息，例如描述和主页链接。
 
 ## 永久存储保障
